@@ -1,0 +1,1081 @@
+User data and parameters: User data: textAreaUpload.txt, Organism: hsapiens, Id Type: entrezgene, Ref Set: entrezgene_protein-coding, Significance Level: .05, Statistics Test: Hypergeometric, MTC: BH, Minimum: 2
+
+The results for each enriched gene sets are listed in this table. For each pathway, the first row lists its gene set
+name, and corresponding Gene Set ID. The second row lists
+number of reference genes in the category (C), number of genes in the gene set and also in the category (O), expected number in the
+category (E), Ratio of enrichment (R), p value from hypergeometric test (rawP), and p value adjusted by the multiple test adjustment (adjP).
+Finally, genes in the pathway are listed. For each gene, the table lists the user uploaded ID and value (optional), Entrez ID,
+Ensembl Gene Stable ID, Gene symbol, and description.
+
+
+Wikipathways pathway	Cytoplasmic Ribosomal Proteins	WP477
+C=88;O=48;E=3.32;R=14.44;rawP=5.24e-45;adjP=6.03e-43
+6122	NA	RPL3	ribosomal protein L3	6122	ENSG00000100316
+
+6187	NA	RPS2	ribosomal protein S2	6187	ENSG00000140988
+
+6181	NA	RPLP2	ribosomal protein, large, P2	6181	ENSG00000177600
+
+6193	NA	RPS5	ribosomal protein S5	6193	ENSG00000083845
+
+6156	NA	RPL30	ribosomal protein L30	6156	ENSG00000156482
+
+23521	NA	RPL13A	ribosomal protein L13a	23521	ENSG00000142541
+
+6164	NA	RPL34	ribosomal protein L34	6164	ENSG00000109475
+
+6135	NA	RPL11	ribosomal protein L11	6135	ENSG00000142676
+
+6147	NA	RPL23A	ribosomal protein L23a	6147	ENSG00000198242
+
+6234	NA	RPS28	ribosomal protein S28	6234	ENSG00000233927
+
+9349	NA	RPL23	ribosomal protein L23	9349	ENSG00000125691
+
+6217	NA	RPS16	ribosomal protein S16	6217	ENSG00000105193
+
+6134	NA	RPL10	ribosomal protein L10	6134	ENSG00000147403
+
+6205	NA	RPS11	ribosomal protein S11	6205	ENSG00000142534
+
+6155	NA	RPL27	ribosomal protein L27	6155	ENSG00000131469
+
+6194	NA	RPS6	ribosomal protein S6	6194	ENSG00000137154
+
+6168	NA	RPL37A	ribosomal protein L37a	6168	ENSG00000197756
+
+6143	NA	RPL19	ribosomal protein L19	6143	ENSG00000108298
+
+6228	NA	RPS23	ribosomal protein S23	6228	ENSG00000186468
+
+6207	NA	RPS13	ribosomal protein S13	6207	ENSG00000110700
+
+6159	NA	RPL29	ribosomal protein L29	6159	ENSG00000162244
+
+11224	NA	RPL35	ribosomal protein L35	11224	ENSG00000136942
+
+6230	NA	RPS25	ribosomal protein S25	6230	ENSG00000118181
+
+6144	NA	RPL21	ribosomal protein L21	6144	ENSG00000122026
+
+6169	NA	RPL38	ribosomal protein L38	6169	ENSG00000172809
+
+6132	NA	RPL8	ribosomal protein L8	6132	ENSG00000161016
+
+6129	NA	RPL7	ribosomal protein L7	6129	ENSG00000147604
+
+6128	NA	RPL6	ribosomal protein L6	6128	ENSG00000089009
+
+4736	NA	RPL10A	ribosomal protein L10a	4736	ENSG00000198755
+
+6157	NA	RPL27A	ribosomal protein L27a	6157	ENSG00000166441
+
+6175	NA	RPLP0	ribosomal protein, large, P0	6175	ENSG00000089157
+
+6203	NA	RPS9	ribosomal protein S9	6203	ENSG00000170889
+
+6189	NA	RPS3A	ribosomal protein S3A	6189	ENSG00000145425
+
+25873	NA	RPL36	ribosomal protein L36	25873	ENSG00000130255
+
+6191	NA	RPS4X	ribosomal protein S4, X-linked	6191	ENSG00000198034
+
+6130	NA	RPL7A	ribosomal protein L7a	6130	ENSG00000148303
+
+6165	NA	RPL35A	ribosomal protein L35a	6165	ENSG00000182899
+
+6136	NA	RPL12	ribosomal protein L12	6136	ENSG00000197958
+
+6210	NA	RPS15A	ribosomal protein S15a	6210	ENSG00000134419
+
+6201	NA	RPS7	ribosomal protein S7	6201	ENSG00000171863
+
+6233	NA	RPS27A	ribosomal protein S27a	6233	ENSG00000143947
+
+6176	NA	RPLP1	ribosomal protein, large, P1	6176	ENSG00000137818
+
+6223	NA	RPS19	ribosomal protein S19	6223	ENSG00000105372
+
+9045	NA	RPL14	ribosomal protein L14	9045	ENSG00000188846
+
+6206	NA	RPS12	ribosomal protein S12	6206	ENSG00000112306
+
+6152	NA	RPL24	ribosomal protein L24	6152	ENSG00000114391
+
+6146	NA	RPL22	ribosomal protein L22	6146	ENSG00000116251
+
+6188	NA	RPS3	ribosomal protein S3	6188	ENSG00000149273
+
+
+Wikipathways pathway	Proteasome Degradation	WP183
+C=63;O=27;E=2.38;R=11.35;rawP=3.29e-22;adjP=1.89e-20
+5689	NA	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	5689	ENSG00000008018
+
+5684	NA	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	5684	ENSG00000100567
+
+5692	NA	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	5692	ENSG00000159377
+
+7317	NA	UBA1	ubiquitin-like modifier activating enzyme 1	7317	ENSG00000130985
+
+5683	NA	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	5683	ENSG00000106588,ENSG00000256646
+
+5702	NA	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	5702	ENSG00000165916
+
+5695	NA	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	5695	ENSG00000136930
+
+5713	NA	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7	5713	ENSG00000103035
+
+5682	NA	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	5682	ENSG00000256206,ENSG00000129084
+
+7347	NA	UCHL3	ubiquitin carboxyl-terminal esterase L3 (ubiquitin thiolesterase)	7347	ENSG00000118939
+
+5685	NA	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	5685	ENSG00000041357
+
+5691	NA	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	5691	ENSG00000108294
+
+5704	NA	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	5704	ENSG00000013275
+
+6184	NA	RPN1	ribophorin I	6184	ENSG00000163902
+
+5699	NA	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	5699	ENSG00000205220
+
+5707	NA	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	5707	ENSG00000173692
+
+5696	NA	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	5696	ENSG00000204264
+
+5706	NA	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	5706	ENSG00000100519
+
+5688	NA	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5688	ENSG00000101182
+
+5714	NA	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	5714	ENSG00000099341
+
+7318	NA	UBA7	ubiquitin-like modifier activating enzyme 7	7318	ENSG00000182179
+
+5701	NA	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	5701	ENSG00000161057
+
+5690	NA	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	5690	ENSG00000126067
+
+5717	NA	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	5717	ENSG00000108671
+
+5686	NA	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5686	ENSG00000143106
+
+5718	NA	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	5718	ENSG00000197170
+
+5694	NA	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	5694	ENSG00000142507
+
+
+Wikipathways pathway	mRNA processing	WP411
+C=130;O=28;E=4.91;R=5.70;rawP=5.09e-14;adjP=1.95e-12
+6627	NA	SNRPA1	small nuclear ribonucleoprotein polypeptide A'	6627	ENSG00000131876
+
+11338	NA	U2AF2	U2 small nuclear RNA auxiliary factor 2	11338	ENSG00000063244
+
+10594	NA	PRPF8	PRP8 pre-mRNA processing factor 8 homolog (S. cerevisiae)	10594	ENSG00000174231
+
+23451	NA	SF3B1	splicing factor 3b, subunit 1, 155kDa	23451	ENSG00000115524
+
+1660	NA	DHX9	DEAH (Asp-Glu-Ala-His) box polypeptide 9	1660	ENSG00000135829
+
+6829	NA	SUPT5H	suppressor of Ty 5 homolog (S. cerevisiae)	6829	ENSG00000196235
+
+6626	NA	SNRPA	small nuclear ribonucleoprotein polypeptide A	6626	ENSG00000077312
+
+83443	NA	SF3B5	splicing factor 3b, subunit 5, 10kDa	83443	ENSG00000169976
+
+6426	NA	SRSF1	serine/arginine-rich splicing factor 1	6426	ENSG00000136450
+
+23450	NA	SF3B3	splicing factor 3b, subunit 3, 130kDa	23450	ENSG00000189091
+
+6632	NA	SNRPD1	small nuclear ribonucleoprotein D1 polypeptide 16kDa	6632	ENSG00000167088
+
+11051	NA	NUDT21	nudix (nucleoside diphosphate linked moiety X)-type motif 21	11051	ENSG00000167005
+
+22826	NA	DNAJC8	DnaJ (Hsp40) homolog, subfamily C, member 8	22826	ENSG00000126698
+
+6427	NA	SRSF2	serine/arginine-rich splicing factor 2	6427	ENSG00000161547
+
+10262	NA	SF3B4	splicing factor 3b, subunit 4, 49kDa	10262	ENSG00000143368
+
+10972	NA	TMED10	transmembrane emp24-like trafficking protein 10 (yeast)	10972	ENSG00000170348
+
+5496	NA	PPM1G	protein phosphatase, Mg2+/Mn2+ dependent, 1G	5496	ENSG00000115241
+
+8243	NA	SMC1A	structural maintenance of chromosomes 1A	8243	ENSG00000072501
+
+3190	NA	HNRNPK	heterogeneous nuclear ribonucleoprotein K	3190	ENSG00000165119
+
+57819	NA	LSM2	LSM2 homolog, U6 small nuclear RNA associated (S. cerevisiae)	57819	ENSG00000204392
+
+3191	NA	HNRNPL	heterogeneous nuclear ribonucleoprotein L	3191	ENSG00000104824
+
+4904	NA	YBX1	Y box binding protein 1	4904	ENSG00000065978
+
+6625	NA	SNRNP70	small nuclear ribonucleoprotein 70kDa (U1)	6625	ENSG00000104852
+
+3192	NA	HNRNPU	heterogeneous nuclear ribonucleoprotein U (scaffold attachment factor A)	3192	ENSG00000153187
+
+6633	NA	SNRPD2	small nuclear ribonucleoprotein D2 polypeptide 16.5kDa	6633	ENSG00000125743
+
+1653	NA	DDX1	DEAD (Asp-Glu-Ala-Asp) box helicase 1	1653	ENSG00000079785
+
+4670	NA	HNRNPM	heterogeneous nuclear ribonucleoprotein M	4670	ENSG00000099783
+
+8683	NA	SRSF9	serine/arginine-rich splicing factor 9	8683	ENSG00000111786
+
+
+Wikipathways pathway	Electron Transport Chain	WP111
+C=103;O=23;E=3.89;R=5.91;rawP=4.17e-12;adjP=1.20e-10
+4704	NA	NDUFA9	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9, 39kDa	4704	ENSG00000139180
+
+93974	NA	ATPIF1	ATPase inhibitory factor 1	93974	ENSG00000130770
+
+1329	NA	COX5B	cytochrome c oxidase subunit Vb	1329	ENSG00000135940
+
+4513	NA	COX2	cytochrome c oxidase subunit II	4513	NULL
+
+1327	NA	COX4I1	cytochrome c oxidase subunit IV isoform 1	1327	ENSG00000131143
+
+7384	NA	UQCRC1	ubiquinol-cytochrome c reductase core protein I	7384	ENSG00000010256
+
+4706	NA	NDUFAB1	NADH dehydrogenase (ubiquinone) 1, alpha/beta subcomplex, 1, 8kDa	4706	ENSG00000004779
+
+521	NA	ATP5I	ATP synthase, H+ transporting, mitochondrial Fo complex, subunit E	521	ENSG00000169020
+
+506	NA	ATP5B	ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide	506	ENSG00000110955
+
+1345	NA	COX6C	cytochrome c oxidase subunit VIc	1345	ENSG00000164919
+
+6389	NA	SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp)	6389	ENSG00000073578
+
+513	NA	ATP5D	ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit	513	ENSG00000099624
+
+515	NA	ATP5F1	ATP synthase, H+ transporting, mitochondrial Fo complex, subunit B1	515	ENSG00000116459
+
+10476	NA	ATP5H	ATP synthase, H+ transporting, mitochondrial Fo complex, subunit d	10476	ENSG00000167863
+
+509	NA	ATP5C1	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	509	ENSG00000165629
+
+7385	NA	UQCRC2	ubiquinol-cytochrome c reductase core protein II	7385	ENSG00000140740
+
+9377	NA	COX5A	cytochrome c oxidase subunit Va	9377	ENSG00000178741
+
+4722	NA	NDUFS3	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)	4722	ENSG00000213619
+
+7388	NA	UQCRH	ubiquinol-cytochrome c reductase hinge protein	7388	ENSG00000173660
+
+498	NA	ATP5A1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle	498	ENSG00000152234
+
+4700	NA	NDUFA6	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 6, 14kDa	4700	ENSG00000184983
+
+539	NA	ATP5O	ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit	539	ENSG00000241837
+
+1340	NA	COX6B1	cytochrome c oxidase subunit VIb polypeptide 1 (ubiquitous)	1340	ENSG00000126267
+
+
+Wikipathways pathway	Glycolysis and Gluconeogenesis	WP534
+C=50;O=13;E=1.89;R=6.88;rawP=2.80e-08;adjP=6.44e-07
+2597	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+2806	NA	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2)	2806	ENSG00000125166
+
+5230	NA	PGK1	phosphoglycerate kinase 1	5230	ENSG00000102144
+
+4191	NA	MDH2	malate dehydrogenase 2, NAD (mitochondrial)	4191	ENSG00000146701
+
+2203	NA	FBP1	fructose-1,6-bisphosphatase 1	2203	ENSG00000165140
+
+226	NA	ALDOA	aldolase A, fructose-bisphosphate	226	ENSG00000149925
+
+3939	NA	LDHA	lactate dehydrogenase A	3939	ENSG00000134333
+
+2805	NA	GOT1	glutamic-oxaloacetic transaminase 1, soluble (aspartate aminotransferase 1)	2805	ENSG00000120053
+
+5315	NA	PKM	pyruvate kinase, muscle	5315	ENSG00000067225
+
+5223	NA	PGAM1	phosphoglycerate mutase 1 (brain)	5223	ENSG00000171314
+
+2023	NA	ENO1	enolase 1, (alpha)	2023	ENSG00000074800
+
+5162	NA	PDHB	pyruvate dehydrogenase (lipoamide) beta	5162	ENSG00000168291
+
+7167	NA	TPI1	triosephosphate isomerase 1	7167	ENSG00000111669
+
+
+Wikipathways pathway	Squamous cell TarBase	WP2006
+C=150;O=22;E=5.66;R=3.88;rawP=5.07e-08;adjP=9.72e-07
+2673	NA	GFPT1	glutamine--fructose-6-phosphate transaminase 1	2673	ENSG00000198380
+
+4860	NA	PNP	purine nucleoside phosphorylase	4860	ENSG00000198805
+
+8943	NA	AP3D1	adaptor-related protein complex 3, delta 1 subunit	8943	ENSG00000065000
+
+4691	NA	NCL	nucleolin	4691	ENSG00000115053
+
+57142	NA	RTN4	reticulon 4	57142	ENSG00000115310
+
+3337	NA	DNAJB1	DnaJ (Hsp40) homolog, subfamily B, member 1	3337	ENSG00000132002
+
+51809	NA	GALNT7	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 7 (GalNAc-T7)	51809	ENSG00000109586
+
+5315	NA	PKM	pyruvate kinase, muscle	5315	ENSG00000067225
+
+3417	NA	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble	3417	ENSG00000138413
+
+5917	NA	RARS	arginyl-tRNA synthetase	5917	ENSG00000113643
+
+27236	NA	ARFIP1	ADP-ribosylation factor interacting protein 1	27236	ENSG00000164144
+
+10972	NA	TMED10	transmembrane emp24-like trafficking protein 10 (yeast)	10972	ENSG00000170348
+
+10449	NA	ACAA2	acetyl-CoA acyltransferase 2	10449	ENSG00000167315
+
+60559	NA	SPCS3	signal peptidase complex subunit 3 homolog (S. cerevisiae)	60559	ENSG00000129128
+
+302	NA	ANXA2	annexin A2	302	ENSG00000182718
+
+3159	NA	HMGA1	high mobility group AT-hook 1	3159	ENSG00000137309
+
+6558	NA	SLC12A2	solute carrier family 12 (sodium/potassium/chloride transporters), member 2	6558	ENSG00000064651
+
+372	NA	ARCN1	archain 1	372	ENSG00000095139
+
+136319	NA	MTPN	myotrophin	136319	ENSG00000105887
+
+51144	NA	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12	51144	ENSG00000149084
+
+4670	NA	HNRNPM	heterogeneous nuclear ribonucleoprotein M	4670	ENSG00000099783
+
+8683	NA	SRSF9	serine/arginine-rich splicing factor 9	8683	ENSG00000111786
+
+
+Wikipathways pathway	Epithelium TarBase	WP2002
+C=340;O=35;E=12.84;R=2.73;rawP=8.45e-08;adjP=1.39e-06
+51479	NA	ANKFY1	ankyrin repeat and FYVE domain containing 1	51479	ENSG00000185722
+
+29957	NA	SLC25A24	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 24	29957	ENSG00000085491
+
+140707	NA	BRI3BP	BRI3 binding protein	140707	ENSG00000184992
+
+8417	NA	STX7	syntaxin 7	8417	ENSG00000079950
+
+8943	NA	AP3D1	adaptor-related protein complex 3, delta 1 subunit	8943	ENSG00000065000
+
+57142	NA	RTN4	reticulon 4	57142	ENSG00000115310
+
+3337	NA	DNAJB1	DnaJ (Hsp40) homolog, subfamily B, member 1	3337	ENSG00000132002
+
+708	NA	C1QBP	complement component 1, q subcomponent binding protein	708	ENSG00000108561
+
+64422	NA	ATG3	autophagy related 3	64422	ENSG00000144848
+
+5887	NA	RAD23B	RAD23 homolog B (S. cerevisiae)	5887	ENSG00000119318
+
+10449	NA	ACAA2	acetyl-CoA acyltransferase 2	10449	ENSG00000167315
+
+6558	NA	SLC12A2	solute carrier family 12 (sodium/potassium/chloride transporters), member 2	6558	ENSG00000064651
+
+136319	NA	MTPN	myotrophin	136319	ENSG00000105887
+
+51144	NA	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12	51144	ENSG00000149084
+
+4670	NA	HNRNPM	heterogeneous nuclear ribonucleoprotein M	4670	ENSG00000099783
+
+2673	NA	GFPT1	glutamine--fructose-6-phosphate transaminase 1	2673	ENSG00000198380
+
+5236	NA	PGM1	phosphoglucomutase 1	5236	ENSG00000079739
+
+4860	NA	PNP	purine nucleoside phosphorylase	4860	ENSG00000198805
+
+4677	NA	NARS	asparaginyl-tRNA synthetase	4677	ENSG00000134440
+
+4035	NA	LRP1	low density lipoprotein receptor-related protein 1	4035	ENSG00000123384
+
+4691	NA	NCL	nucleolin	4691	ENSG00000115053
+
+51809	NA	GALNT7	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 7 (GalNAc-T7)	51809	ENSG00000109586
+
+5315	NA	PKM	pyruvate kinase, muscle	5315	ENSG00000067225
+
+3417	NA	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble	3417	ENSG00000138413
+
+4144	NA	MAT2A	methionine adenosyltransferase II, alpha	4144	ENSG00000168906
+
+55832	NA	CAND1	cullin-associated and neddylation-dissociated 1	55832	ENSG00000111530
+
+5917	NA	RARS	arginyl-tRNA synthetase	5917	ENSG00000113643
+
+4924	NA	NUCB1	nucleobindin 1	4924	ENSG00000104805
+
+10972	NA	TMED10	transmembrane emp24-like trafficking protein 10 (yeast)	10972	ENSG00000170348
+
+8243	NA	SMC1A	structural maintenance of chromosomes 1A	8243	ENSG00000072501
+
+396	NA	ARHGDIA	Rho GDP dissociation inhibitor (GDI) alpha	396	ENSG00000141522
+
+302	NA	ANXA2	annexin A2	302	ENSG00000182718
+
+3691	NA	ITGB4	integrin, beta 4	3691	ENSG00000132470
+
+372	NA	ARCN1	archain 1	372	ENSG00000095139
+
+8683	NA	SRSF9	serine/arginine-rich splicing factor 9	8683	ENSG00000111786
+
+
+Wikipathways pathway	TCA Cycle	WP78
+C=20;O=8;E=0.76;R=10.59;rawP=3.36e-07;adjP=4.29e-06
+8802	NA	SUCLG1	succinate-CoA ligase, alpha subunit	8802	ENSG00000163541
+
+4191	NA	MDH2	malate dehydrogenase 2, NAD (mitochondrial)	4191	ENSG00000146701
+
+3419	NA	IDH3A	isocitrate dehydrogenase 3 (NAD+) alpha	3419	ENSG00000166411
+
+2271	NA	FH	fumarate hydratase	2271	ENSG00000091483
+
+8801	NA	SUCLG2	succinate-CoA ligase, GDP-forming, beta subunit	8801	ENSG00000172340
+
+3420	NA	IDH3B	isocitrate dehydrogenase 3 (NAD+) beta	3420	ENSG00000101365
+
+1743	NA	DLST	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)	1743	ENSG00000119689
+
+6389	NA	SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp)	6389	ENSG00000073578
+
+
+Wikipathways pathway	Translation Factors	WP107
+C=51;O=12;E=1.93;R=6.23;rawP=3.16e-07;adjP=4.29e-06
+1984	NA	EIF5A	eukaryotic translation initiation factor 5A	1984	ENSG00000132507
+
+8894	NA	EIF2S2	eukaryotic translation initiation factor 2, subunit 2 beta, 38kDa	8894	ENSG00000125977
+
+1938	NA	EEF2	eukaryotic translation elongation factor 2	1938	ENSG00000167658
+
+8668	NA	EIF3I	eukaryotic translation initiation factor 3, subunit I	8668	ENSG00000084623
+
+1968	NA	EIF2S3	eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa	1968	ENSG00000130741
+
+3646	NA	EIF3E	eukaryotic translation initiation factor 3, subunit E	3646	ENSG00000104408
+
+1973	NA	EIF4A1	eukaryotic translation initiation factor 4A1	1973	ENSG00000161960
+
+1983	NA	EIF5	eukaryotic translation initiation factor 5	1983	ENSG00000100664
+
+9669	NA	EIF5B	eukaryotic translation initiation factor 5B	9669	ENSG00000158417
+
+7458	NA	EIF4H	eukaryotic translation initiation factor 4H	7458	ENSG00000106682
+
+8666	NA	EIF3G	eukaryotic translation initiation factor 3, subunit G	8666	ENSG00000130811
+
+8667	NA	EIF3H	eukaryotic translation initiation factor 3, subunit H	8667	ENSG00000147677
+
+
+Wikipathways pathway	Parkin-Ubiquitin Proteasomal System pathway	WP2359
+C=70;O=13;E=2.64;R=4.92;rawP=1.86e-06;adjP=2.14e-05
+3308	NA	HSPA4	heat shock 70kDa protein 4	3308	ENSG00000170606
+
+5707	NA	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	5707	ENSG00000173692
+
+7317	NA	UBA1	ubiquitin-like modifier activating enzyme 1	7317	ENSG00000130985
+
+5706	NA	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	5706	ENSG00000100519
+
+5714	NA	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	5714	ENSG00000099341
+
+7332	NA	UBE2L3	ubiquitin-conjugating enzyme E2L 3	7332	ENSG00000185651
+
+5701	NA	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	5701	ENSG00000161057
+
+5702	NA	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	5702	ENSG00000165916
+
+5713	NA	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7	5713	ENSG00000103035
+
+10213	NA	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	10213	ENSG00000115233
+
+5717	NA	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	5717	ENSG00000108671
+
+5704	NA	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	5704	ENSG00000013275
+
+5718	NA	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	5718	ENSG00000197170
+
+
+Wikipathways pathway	Methylation Pathways	WP704
+C=8;O=5;E=0.30;R=16.55;rawP=3.86e-06;adjP=4.04e-05
+27430	NA	MAT2B	methionine adenosyltransferase II, beta	27430	ENSG00000038274
+
+1312	NA	COMT	catechol-O-methyltransferase	1312	ENSG00000093010
+
+3176	NA	HNMT	histamine N-methyltransferase	3176	ENSG00000150540
+
+7172	NA	TPMT	thiopurine S-methyltransferase	7172	ENSG00000137364
+
+4144	NA	MAT2A	methionine adenosyltransferase II, alpha	4144	ENSG00000168906
+
+
+Wikipathways pathway	Synthesis and Degradation of Ketone Bodies	WP311
+C=5;O=4;E=0.19;R=21.18;rawP=9.79e-06;adjP=9.38e-05
+38	NA	ACAT1	acetyl-CoA acetyltransferase 1	38	ENSG00000075239
+
+5019	NA	OXCT1	3-oxoacid CoA transferase 1	5019	ENSG00000083720
+
+622	NA	BDH1	3-hydroxybutyrate dehydrogenase, type 1	622	ENSG00000161267
+
+3158	NA	HMGCS2	3-hydroxy-3-methylglutaryl-CoA synthase 2 (mitochondrial)	3158	ENSG00000134240
+
+
+Wikipathways pathway	Oxidative phosphorylation	WP623
+C=60;O=11;E=2.27;R=4.85;rawP=1.31e-05;adjP=0.0001
+4704	NA	NDUFA9	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9, 39kDa	4704	ENSG00000139180
+
+10476	NA	ATP5H	ATP synthase, H+ transporting, mitochondrial Fo complex, subunit d	10476	ENSG00000167863
+
+4722	NA	NDUFS3	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)	4722	ENSG00000213619
+
+521	NA	ATP5I	ATP synthase, H+ transporting, mitochondrial Fo complex, subunit E	521	ENSG00000169020
+
+4706	NA	NDUFAB1	NADH dehydrogenase (ubiquinone) 1, alpha/beta subcomplex, 1, 8kDa	4706	ENSG00000004779
+
+506	NA	ATP5B	ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide	506	ENSG00000110955
+
+498	NA	ATP5A1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle	498	ENSG00000152234
+
+4700	NA	NDUFA6	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 6, 14kDa	4700	ENSG00000184983
+
+539	NA	ATP5O	ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit	539	ENSG00000241837
+
+513	NA	ATP5D	ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit	513	ENSG00000099624
+
+515	NA	ATP5F1	ATP synthase, H+ transporting, mitochondrial Fo complex, subunit B1	515	ENSG00000116459
+
+
+Wikipathways pathway	Lymphocyte TarBase	WP2004
+C=533;O=40;E=20.13;R=1.99;rawP=3.14e-05;adjP=0.0003
+51479	NA	ANKFY1	ankyrin repeat and FYVE domain containing 1	51479	ENSG00000185722
+
+29957	NA	SLC25A24	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 24	29957	ENSG00000085491
+
+140707	NA	BRI3BP	BRI3 binding protein	140707	ENSG00000184992
+
+8417	NA	STX7	syntaxin 7	8417	ENSG00000079950
+
+8943	NA	AP3D1	adaptor-related protein complex 3, delta 1 subunit	8943	ENSG00000065000
+
+57142	NA	RTN4	reticulon 4	57142	ENSG00000115310
+
+3337	NA	DNAJB1	DnaJ (Hsp40) homolog, subfamily B, member 1	3337	ENSG00000132002
+
+708	NA	C1QBP	complement component 1, q subcomponent binding protein	708	ENSG00000108561
+
+27236	NA	ARFIP1	ADP-ribosylation factor interacting protein 1	27236	ENSG00000164144
+
+64422	NA	ATG3	autophagy related 3	64422	ENSG00000144848
+
+283237	NA	TTC9C	tetratricopeptide repeat domain 9C	283237	ENSG00000162222
+
+5887	NA	RAD23B	RAD23 homolog B (S. cerevisiae)	5887	ENSG00000119318
+
+10449	NA	ACAA2	acetyl-CoA acyltransferase 2	10449	ENSG00000167315
+
+8801	NA	SUCLG2	succinate-CoA ligase, GDP-forming, beta subunit	8801	ENSG00000172340
+
+6558	NA	SLC12A2	solute carrier family 12 (sodium/potassium/chloride transporters), member 2	6558	ENSG00000064651
+
+136319	NA	MTPN	myotrophin	136319	ENSG00000105887
+
+51144	NA	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12	51144	ENSG00000149084
+
+4670	NA	HNRNPM	heterogeneous nuclear ribonucleoprotein M	4670	ENSG00000099783
+
+2673	NA	GFPT1	glutamine--fructose-6-phosphate transaminase 1	2673	ENSG00000198380
+
+5236	NA	PGM1	phosphoglucomutase 1	5236	ENSG00000079739
+
+4860	NA	PNP	purine nucleoside phosphorylase	4860	ENSG00000198805
+
+4677	NA	NARS	asparaginyl-tRNA synthetase	4677	ENSG00000134440
+
+4691	NA	NCL	nucleolin	4691	ENSG00000115053
+
+83451	NA	ABHD11	abhydrolase domain containing 11	83451	ENSG00000106077
+
+51809	NA	GALNT7	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 7 (GalNAc-T7)	51809	ENSG00000109586
+
+5315	NA	PKM	pyruvate kinase, muscle	5315	ENSG00000067225
+
+3417	NA	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble	3417	ENSG00000138413
+
+4144	NA	MAT2A	methionine adenosyltransferase II, alpha	4144	ENSG00000168906
+
+55832	NA	CAND1	cullin-associated and neddylation-dissociated 1	55832	ENSG00000111530
+
+5917	NA	RARS	arginyl-tRNA synthetase	5917	ENSG00000113643
+
+4924	NA	NUCB1	nucleobindin 1	4924	ENSG00000104805
+
+10972	NA	TMED10	transmembrane emp24-like trafficking protein 10 (yeast)	10972	ENSG00000170348
+
+8773	NA	SNAP23	synaptosomal-associated protein, 23kDa	8773	ENSG00000092531
+
+396	NA	ARHGDIA	Rho GDP dissociation inhibitor (GDI) alpha	396	ENSG00000141522
+
+8243	NA	SMC1A	structural maintenance of chromosomes 1A	8243	ENSG00000072501
+
+60559	NA	SPCS3	signal peptidase complex subunit 3 homolog (S. cerevisiae)	60559	ENSG00000129128
+
+302	NA	ANXA2	annexin A2	302	ENSG00000182718
+
+3159	NA	HMGA1	high mobility group AT-hook 1	3159	ENSG00000137309
+
+372	NA	ARCN1	archain 1	372	ENSG00000095139
+
+8683	NA	SRSF9	serine/arginine-rich splicing factor 9	8683	ENSG00000111786
+
+
+Wikipathways pathway	Integrin-mediated cell adhesion	WP185
+C=101;O=13;E=3.81;R=3.41;rawP=0.0001;adjP=0.0008
+2885	NA	GRB2	growth factor receptor-bound protein 2	2885	ENSG00000177885
+
+824	NA	CAPN2	calpain 2, (m/II) large subunit	824	ENSG00000162909
+
+7791	NA	ZYX	zyxin	7791	ENSG00000159840
+
+10580	NA	SORBS1	sorbin and SH3 domain containing 1	10580	ENSG00000095637
+
+7408	NA	VASP	vasodilator-stimulated phosphoprotein	7408	ENSG00000125753
+
+998	NA	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	998	ENSG00000070831
+
+1398	NA	CRK	v-crk sarcoma virus CT10 oncogene homolog (avian)	1398	ENSG00000167193
+
+3688	NA	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	3688	ENSG00000150093
+
+826	NA	CAPNS1	calpain, small subunit 1	826	ENSG00000126247
+
+857	NA	CAV1	caveolin 1, caveolae protein, 22kDa	857	ENSG00000105974
+
+3691	NA	ITGB4	integrin, beta 4	3691	ENSG00000132470
+
+7414	NA	VCL	vinculin	7414	ENSG00000035403
+
+823	NA	CAPN1	calpain 1, (mu/I) large subunit	823	ENSG00000014216
+
+
+Wikipathways pathway	Muscle cell TarBase	WP2005
+C=424;O=32;E=16.01;R=2.00;rawP=0.0002;adjP=0.0014
+51479	NA	ANKFY1	ankyrin repeat and FYVE domain containing 1	51479	ENSG00000185722
+
+2673	NA	GFPT1	glutamine--fructose-6-phosphate transaminase 1	2673	ENSG00000198380
+
+5236	NA	PGM1	phosphoglucomutase 1	5236	ENSG00000079739
+
+29957	NA	SLC25A24	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 24	29957	ENSG00000085491
+
+8417	NA	STX7	syntaxin 7	8417	ENSG00000079950
+
+4035	NA	LRP1	low density lipoprotein receptor-related protein 1	4035	ENSG00000123384
+
+8943	NA	AP3D1	adaptor-related protein complex 3, delta 1 subunit	8943	ENSG00000065000
+
+4691	NA	NCL	nucleolin	4691	ENSG00000115053
+
+57142	NA	RTN4	reticulon 4	57142	ENSG00000115310
+
+3337	NA	DNAJB1	DnaJ (Hsp40) homolog, subfamily B, member 1	3337	ENSG00000132002
+
+51809	NA	GALNT7	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 7 (GalNAc-T7)	51809	ENSG00000109586
+
+5315	NA	PKM	pyruvate kinase, muscle	5315	ENSG00000067225
+
+708	NA	C1QBP	complement component 1, q subcomponent binding protein	708	ENSG00000108561
+
+55832	NA	CAND1	cullin-associated and neddylation-dissociated 1	55832	ENSG00000111530
+
+4924	NA	NUCB1	nucleobindin 1	4924	ENSG00000104805
+
+5917	NA	RARS	arginyl-tRNA synthetase	5917	ENSG00000113643
+
+10972	NA	TMED10	transmembrane emp24-like trafficking protein 10 (yeast)	10972	ENSG00000170348
+
+8773	NA	SNAP23	synaptosomal-associated protein, 23kDa	8773	ENSG00000092531
+
+1829	NA	DSG2	desmoglein 2	1829	ENSG00000046604
+
+283237	NA	TTC9C	tetratricopeptide repeat domain 9C	283237	ENSG00000162222
+
+5887	NA	RAD23B	RAD23 homolog B (S. cerevisiae)	5887	ENSG00000119318
+
+396	NA	ARHGDIA	Rho GDP dissociation inhibitor (GDI) alpha	396	ENSG00000141522
+
+8243	NA	SMC1A	structural maintenance of chromosomes 1A	8243	ENSG00000072501
+
+10449	NA	ACAA2	acetyl-CoA acyltransferase 2	10449	ENSG00000167315
+
+60559	NA	SPCS3	signal peptidase complex subunit 3 homolog (S. cerevisiae)	60559	ENSG00000129128
+
+3159	NA	HMGA1	high mobility group AT-hook 1	3159	ENSG00000137309
+
+3691	NA	ITGB4	integrin, beta 4	3691	ENSG00000132470
+
+6558	NA	SLC12A2	solute carrier family 12 (sodium/potassium/chloride transporters), member 2	6558	ENSG00000064651
+
+372	NA	ARCN1	archain 1	372	ENSG00000095139
+
+136319	NA	MTPN	myotrophin	136319	ENSG00000105887
+
+51144	NA	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12	51144	ENSG00000149084
+
+8683	NA	SRSF9	serine/arginine-rich splicing factor 9	8683	ENSG00000111786
+
+
+Wikipathways pathway	Glutathione metabolism	WP100
+C=25;O=6;E=0.94;R=6.35;rawP=0.0003;adjP=0.0020
+26873	NA	OPLAH	5-oxoprolinase (ATP-hydrolysing)	26873	NULL
+
+3417	NA	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble	3417	ENSG00000138413
+
+2876	NA	GPX1	glutathione peroxidase 1	2876	ENSG00000233276
+
+2877	NA	GPX2	glutathione peroxidase 2 (gastrointestinal)	2877	ENSG00000176153
+
+2937	NA	GSS	glutathione synthetase	2937	ENSG00000100983
+
+2879	NA	GPX4	glutathione peroxidase 4	2879	ENSG00000167468
+
+
+Wikipathways pathway	Mitochondrial LC-Fatty Acid Beta-Oxidation	WP368
+C=16;O=4;E=0.60;R=6.62;rawP=0.0026;adjP=0.0166
+1374	NA	CPT1A	carnitine palmitoyltransferase 1A (liver)	1374	ENSG00000110090
+
+3030	NA	HADHA	hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), alpha subunit	3030	ENSG00000084754
+
+1632	NA	ECI1	enoyl-CoA delta isomerase 1	1632	ENSG00000167969
+
+1376	NA	CPT2	carnitine palmitoyltransferase 2	1376	ENSG00000157184
+
+
+Wikipathways pathway	Leukocyte TarBase	WP2003
+C=160;O=14;E=6.04;R=2.32;rawP=0.0030;adjP=0.0182
+4860	NA	PNP	purine nucleoside phosphorylase	4860	ENSG00000198805
+
+10972	NA	TMED10	transmembrane emp24-like trafficking protein 10 (yeast)	10972	ENSG00000170348
+
+8773	NA	SNAP23	synaptosomal-associated protein, 23kDa	8773	ENSG00000092531
+
+396	NA	ARHGDIA	Rho GDP dissociation inhibitor (GDI) alpha	396	ENSG00000141522
+
+10449	NA	ACAA2	acetyl-CoA acyltransferase 2	10449	ENSG00000167315
+
+8943	NA	AP3D1	adaptor-related protein complex 3, delta 1 subunit	8943	ENSG00000065000
+
+57142	NA	RTN4	reticulon 4	57142	ENSG00000115310
+
+3337	NA	DNAJB1	DnaJ (Hsp40) homolog, subfamily B, member 1	3337	ENSG00000132002
+
+302	NA	ANXA2	annexin A2	302	ENSG00000182718
+
+3159	NA	HMGA1	high mobility group AT-hook 1	3159	ENSG00000137309
+
+5315	NA	PKM	pyruvate kinase, muscle	5315	ENSG00000067225
+
+3417	NA	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble	3417	ENSG00000138413
+
+372	NA	ARCN1	archain 1	372	ENSG00000095139
+
+4670	NA	HNRNPM	heterogeneous nuclear ribonucleoprotein M	4670	ENSG00000099783
+
+
+Wikipathways pathway	Folate Metabolism	WP176
+C=29;O=5;E=1.10;R=4.57;rawP=0.0042;adjP=0.0230
+191	NA	AHCY	adenosylhomocysteinase	191	ENSG00000101444
+
+335	NA	APOA1	apolipoprotein A-I	335	ENSG00000118137
+
+2876	NA	GPX1	glutathione peroxidase 1	2876	ENSG00000233276
+
+2877	NA	GPX2	glutathione peroxidase 2 (gastrointestinal)	2877	ENSG00000176153
+
+2879	NA	GPX4	glutathione peroxidase 4	2879	ENSG00000167468
+
+
+Wikipathways pathway	Fatty Acid Biosynthesis	WP357
+C=29;O=5;E=1.10;R=4.57;rawP=0.0042;adjP=0.0230
+51703	NA	ACSL5	acyl-CoA synthetase long-chain family member 5	51703	ENSG00000197142
+
+1891	NA	ECH1	enoyl CoA hydratase 1, peroxisomal	1891	ENSG00000104823
+
+1892	NA	ECHS1	enoyl CoA hydratase, short chain, 1, mitochondrial	1892	ENSG00000127884
+
+10449	NA	ACAA2	acetyl-CoA acyltransferase 2	10449	ENSG00000167315
+
+2194	NA	FASN	fatty acid synthase	2194	ENSG00000169710
+
+
+Wikipathways pathway	Prostaglandin Synthesis and Regulation	WP98
+C=31;O=5;E=1.17;R=4.27;rawP=0.0057;adjP=0.0298
+302	NA	ANXA2	annexin A2	302	ENSG00000182718
+
+6281	NA	S100A10	S100 calcium binding protein A10	6281	ENSG00000197747
+
+3291	NA	HSD11B2	hydroxysteroid (11-beta) dehydrogenase 2	3291	ENSG00000176387
+
+6277	NA	S100A6	S100 calcium binding protein A6	6277	ENSG00000197956
+
+301	NA	ANXA1	annexin A1	301	ENSG00000135046
+
+
+Wikipathways pathway	Fatty Acid Beta Oxidation	WP143
+C=73;O=8;E=2.76;R=2.90;rawP=0.0062;adjP=0.0310
+51703	NA	ACSL5	acyl-CoA synthetase long-chain family member 5	51703	ENSG00000197142
+
+3030	NA	HADHA	hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), alpha subunit	3030	ENSG00000084754
+
+1376	NA	CPT2	carnitine palmitoyltransferase 2	1376	ENSG00000157184
+
+1892	NA	ECHS1	enoyl CoA hydratase, short chain, 1, mitochondrial	1892	ENSG00000127884
+
+38	NA	ACAT1	acetyl-CoA acetyltransferase 1	38	ENSG00000075239
+
+1374	NA	CPT1A	carnitine palmitoyltransferase 1A (liver)	1374	ENSG00000110090
+
+1632	NA	ECI1	enoyl-CoA delta isomerase 1	1632	ENSG00000167969
+
+7167	NA	TPI1	triosephosphate isomerase 1	7167	ENSG00000111669
+
+
+Wikipathways pathway	Benzo(a)pyrene metabolism	WP696
+C=11;O=3;E=0.42;R=7.22;rawP=0.0071;adjP=0.0327
+8644	NA	AKR1C3	aldo-keto reductase family 1, member C3 (3-alpha hydroxysteroid dehydrogenase, type II)	8644	ENSG00000196139
+
+10327	NA	AKR1A1	aldo-keto reductase family 1, member A1 (aldehyde reductase)	10327	ENSG00000117448
+
+2052	NA	EPHX1	epoxide hydrolase 1, microsomal (xenobiotic)	2052	ENSG00000143819
+
+
+Wikipathways pathway	metapathway biotransformation	WP702
+C=177;O=14;E=6.68;R=2.09;rawP=0.0074;adjP=0.0327
+373156	NA	GSTK1	glutathione S-transferase kappa 1	373156	ENSG00000197448
+
+27284	NA	SULT1B1	sulfotransferase family, cytosolic, 1B, member 1	27284	ENSG00000173597
+
+3176	NA	HNMT	histamine N-methyltransferase	3176	ENSG00000150540
+
+29785	NA	CYP2S1	cytochrome P450, family 2, subfamily S, polypeptide 1	29785	ENSG00000167600
+
+2877	NA	GPX2	glutathione peroxidase 2 (gastrointestinal)	2877	ENSG00000176153
+
+1312	NA	COMT	catechol-O-methyltransferase	1312	ENSG00000093010
+
+8644	NA	AKR1C3	aldo-keto reductase family 1, member C3 (3-alpha hydroxysteroid dehydrogenase, type II)	8644	ENSG00000196139
+
+7172	NA	TPMT	thiopurine S-methyltransferase	7172	ENSG00000137364
+
+2950	NA	GSTP1	glutathione S-transferase pi 1	2950	ENSG00000084207
+
+4257	NA	MGST1	microsomal glutathione S-transferase 1	4257	ENSG00000008394
+
+10327	NA	AKR1A1	aldo-keto reductase family 1, member A1 (aldehyde reductase)	10327	ENSG00000117448
+
+2937	NA	GSS	glutathione synthetase	2937	ENSG00000100983
+
+2052	NA	EPHX1	epoxide hydrolase 1, microsomal (xenobiotic)	2052	ENSG00000143819
+
+2879	NA	GPX4	glutathione peroxidase 4	2879	ENSG00000167468
+
+
+Wikipathways pathway	Androgen receptor signaling pathway	WP138
+C=91;O=9;E=3.44;R=2.62;rawP=0.0074;adjP=0.0327
+811	NA	CALR	calreticulin	811	ENSG00000179218
+
+387	NA	RHOA	ras homolog family member A	387	ENSG00000067560
+
+998	NA	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	998	ENSG00000070831
+
+10399	NA	GNB2L1	guanine nucleotide binding protein (G protein), beta polypeptide 2-like 1	10399	ENSG00000204628
+
+2316	NA	FLNA	filamin A, alpha	2316	ENSG00000196924
+
+857	NA	CAV1	caveolin 1, caveolae protein, 22kDa	857	ENSG00000105974
+
+2288	NA	FKBP4	FK506 binding protein 4, 59kDa	2288	ENSG00000004478
+
+6774	NA	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	6774	ENSG00000168610
+
+11315	NA	PARK7	parkinson protein 7	11315	ENSG00000116288
+
+
+Wikipathways pathway	FAS pathway and Stress induction of HSP regulation	WP314
+C=51;O=6;E=1.93;R=3.12;rawP=0.0121;adjP=0.0422
+397	NA	ARHGDIB	Rho GDP dissociation inhibitor (GDI) beta	397	ENSG00000111348
+
+142	NA	PARP1	poly (ADP-ribose) polymerase 1	142	ENSG00000143799
+
+839	NA	CASP6	caspase 6, apoptosis-related cysteine peptidase	839	ENSG00000138794
+
+3315	NA	HSPB1	heat shock 27kDa protein 1	3315	ENSG00000106211
+
+5591	NA	PRKDC	protein kinase, DNA-activated, catalytic polypeptide	5591	ENSG00000253729
+
+4000	NA	LMNA	lamin A/C	4000	ENSG00000160789
+
+
+Wikipathways pathway	Signaling of Hepatocyte Growth Factor Receptor	WP313
+C=37;O=5;E=1.40;R=3.58;rawP=0.0121;adjP=0.0422
+2885	NA	GRB2	growth factor receptor-bound protein 2	2885	ENSG00000177885
+
+1399	NA	CRKL	v-crk sarcoma virus CT10 oncogene homolog (avian)-like	1399	ENSG00000099942
+
+1398	NA	CRK	v-crk sarcoma virus CT10 oncogene homolog (avian)	1398	ENSG00000167193
+
+6774	NA	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	6774	ENSG00000168610
+
+3688	NA	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	3688	ENSG00000150093
+
+
+Wikipathways pathway	Complement and Coagulation Cascades	WP558
+C=51;O=6;E=1.93;R=3.12;rawP=0.0121;adjP=0.0422
+718	NA	C3	complement component 3	718	ENSG00000125730
+
+2244	NA	FGB	fibrinogen beta chain	2244	ENSG00000171564
+
+5340	NA	PLG	plasminogen	5340	ENSG00000122194
+
+5265	NA	SERPINA1	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	5265	ENSG00000197249
+
+2	NA	A2M	alpha-2-macroglobulin	2	ENSG00000175899
+
+336	NA	APOA2	apolipoprotein A-II	336	ENSG00000158874
+
+
+Wikipathways pathway	Focal Adhesion	WP306
+C=185;O=14;E=6.99;R=2.00;rawP=0.0107;adjP=0.0422
+2885	NA	GRB2	growth factor receptor-bound protein 2	2885	ENSG00000177885
+
+7791	NA	ZYX	zyxin	7791	ENSG00000159840
+
+387	NA	RHOA	ras homolog family member A	387	ENSG00000067560
+
+7408	NA	VASP	vasodilator-stimulated phosphoprotein	7408	ENSG00000125753
+
+1292	NA	COL6A2	collagen, type VI, alpha 2	1292	ENSG00000142173
+
+998	NA	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	998	ENSG00000070831
+
+1398	NA	CRK	v-crk sarcoma virus CT10 oncogene homolog (avian)	1398	ENSG00000167193
+
+7448	NA	VTN	vitronectin	7448	ENSG00000255604
+
+3688	NA	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	3688	ENSG00000150093
+
+2316	NA	FLNA	filamin A, alpha	2316	ENSG00000196924
+
+857	NA	CAV1	caveolin 1, caveolae protein, 22kDa	857	ENSG00000105974
+
+3691	NA	ITGB4	integrin, beta 4	3691	ENSG00000132470
+
+7414	NA	VCL	vinculin	7414	ENSG00000035403
+
+823	NA	CAPN1	calpain 1, (mu/I) large subunit	823	ENSG00000014216
+
+
+Wikipathways pathway	Selenium Metabolism and Selenoproteins	WP28
+C=49;O=6;E=1.85;R=3.24;rawP=0.0100;adjP=0.0422
+6156	NA	RPL30	ribosomal protein L30	6156	ENSG00000156482
+
+8991	NA	SELENBP1	selenium binding protein 1	8991	ENSG00000143416
+
+2876	NA	GPX1	glutathione peroxidase 1	2876	ENSG00000233276
+
+2168	NA	FABP1	fatty acid binding protein 1, liver	2168	ENSG00000163586
+
+2877	NA	GPX2	glutathione peroxidase 2 (gastrointestinal)	2877	ENSG00000176153
+
+2879	NA	GPX4	glutathione peroxidase 4	2879	ENSG00000167468
+
+
+Wikipathways pathway	G13 Signaling Pathway	WP524
+C=37;O=5;E=1.40;R=3.58;rawP=0.0121;adjP=0.0422
+397	NA	ARHGDIB	Rho GDP dissociation inhibitor (GDI) beta	397	ENSG00000111348
+
+387	NA	RHOA	ras homolog family member A	387	ENSG00000067560
+
+998	NA	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	998	ENSG00000070831
+
+5216	NA	PFN1	profilin 1	5216	ENSG00000108518
+
+8826	NA	IQGAP1	IQ motif containing GTPase activating protein 1	8826	ENSG00000140575
+
+
+Wikipathways pathway	Alanine and aspartate metabolism	WP106
+C=13;O=3;E=0.49;R=6.11;rawP=0.0116;adjP=0.0422
+445	NA	ASS1	argininosuccinate synthase 1	445	ENSG00000130707
+
+2805	NA	GOT1	glutamic-oxaloacetic transaminase 1, soluble (aspartate aminotransferase 1)	2805	ENSG00000120053
+
+2806	NA	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2)	2806	ENSG00000125166
+
+
+Wikipathways pathway	EGF-EGFR Signaling Pathway	WP437
+C=172;O=13;E=6.50;R=2.00;rawP=0.0137;adjP=0.0463
+2885	NA	GRB2	growth factor receptor-bound protein 2	2885	ENSG00000177885
+
+1399	NA	CRKL	v-crk sarcoma virus CT10 oncogene homolog (avian)-like	1399	ENSG00000099942
+
+5111	NA	PCNA	proliferating cell nuclear antigen	5111	ENSG00000132646
+
+998	NA	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	998	ENSG00000070831
+
+1398	NA	CRK	v-crk sarcoma virus CT10 oncogene homolog (avian)	1398	ENSG00000167193
+
+8826	NA	IQGAP1	IQ motif containing GTPase activating protein 1	8826	ENSG00000140575
+
+5037	NA	PEBP1	phosphatidylethanolamine binding protein 1	5037	ENSG00000089220
+
+6772	NA	STAT1	signal transducer and activator of transcription 1, 91kDa	6772	ENSG00000115415
+
+857	NA	CAV1	caveolin 1, caveolae protein, 22kDa	857	ENSG00000105974
+
+6774	NA	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	6774	ENSG00000168610
+
+51079	NA	NDUFA13	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13	51079	ENSG00000186010
+
+3925	NA	STMN1	stathmin 1	3925	ENSG00000117632
+
+1175	NA	AP2S1	adaptor-related protein complex 2, sigma 1 subunit	1175	ENSG00000042753
+
+
+Wikipathways pathway	Glucuronidation	WP698
+C=26;O=4;E=0.98;R=4.07;rawP=0.0156;adjP=0.0491
+5236	NA	PGM1	phosphoglucomutase 1	5236	ENSG00000079739
+
+55276	NA	PGM2	phosphoglucomutase 2	55276	ENSG00000169299
+
+5239	NA	PGM5	phosphoglucomutase 5	5239	ENSG00000154330
+
+7358	NA	UGDH	UDP-glucose 6-dehydrogenase	7358	ENSG00000109814
+
+
+Wikipathways pathway	Synaptic Vesicle Pathway	WP2267
+C=54;O=6;E=2.04;R=2.94;rawP=0.0158;adjP=0.0491
+1211	NA	CLTA	clathrin, light chain A	1211	ENSG00000122705
+
+8775	NA	NAPA	N-ethylmaleimide-sensitive factor attachment protein, alpha	8775	ENSG00000105402
+
+1175	NA	AP2S1	adaptor-related protein complex 2, sigma 1 subunit	1175	ENSG00000042753
+
+11315	NA	PARK7	parkinson protein 7	11315	ENSG00000116288
+
+1213	NA	CLTC	clathrin, heavy chain (Hc)	1213	ENSG00000141367
+
+1785	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+
+Wikipathways pathway	Blood Clotting Cascade	WP272
+C=26;O=4;E=0.98;R=4.07;rawP=0.0156;adjP=0.0491
+2244	NA	FGB	fibrinogen beta chain	2244	ENSG00000171564
+
+5340	NA	PLG	plasminogen	5340	ENSG00000122194
+
+2266	NA	FGG	fibrinogen gamma chain	2266	ENSG00000171557
+
+2243	NA	FGA	fibrinogen alpha chain	2243	ENSG00000171560
+
+
+
+
