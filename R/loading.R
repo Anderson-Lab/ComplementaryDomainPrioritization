@@ -63,7 +63,7 @@ load.gene.data <- function(file,start.data.inx) {
   cmeans = colMeans(data)
   ixs = which(is.na(cmeans))
   if (length(ixs) > 0) {
-    data = data[,ixs]
+    data = data[,-ixs]
   }
   data$labels <- factor(labels)
   return(list(data=gene.data,transposed.data=data))
