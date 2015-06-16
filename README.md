@@ -1,5 +1,5 @@
-# GeneListPrioritization
-Heterogeneous Domain Prioritization and Filtering Demonstrated on Proteogenomic Datasets
+# ComplementaryDomainPrioritization
+Complementary Domain Prioritization and Filtering Demonstrated on Proteogenomic Datasets
 
 ## Installation Instructions
 source("http://bioconductor.org/biocLite.R")
@@ -18,4 +18,4 @@ install.packages('devtools')
 
 library(devtools)
 
-install_github("Anderson-Lab/GeneListPrioritization")
+install_github("Anderson-Lab/ComplementaryDomainPrioritization")
