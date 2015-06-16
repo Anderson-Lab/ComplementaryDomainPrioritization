@@ -1,5 +1,5 @@
-Package: GeneListPrioritization
-Title: Gene List Prioritization and Filtering
+Package: ComplementaryDomainPrioritization
+Title: ComplementaryDomainPrioritization and Filtering
 Version: 0.1
 Authors@R: c(person("Paul","Anderson",email="andersonpe2@cofc.edu",role=c("aut","cre")),person("Benjamin","Neely",email="ben.a.neely@gmail.com",role=c("aut")))
 Description: An implementation of a gene list prioritization and filtering methodology that combines both proteomics and genomic data sources.
@@ -13,5 +13,4 @@ License: MIT + file LICENSE
 LazyData: true
 Encoding: UTF-8
 Suggests: knitr
-VignetteBuilder: knitr
 

@@ -1,4 +1,4 @@
-#' Downloads example data files for examples
+#' Downloads example data files for package demonstration.
 #'
 #' @param dest The destination path
 #' @param allow.cache Allow the files to be cached to prevent downloading multiple times.
@@ -29,6 +29,7 @@ download.example.data <- function(dest=".",allow.cache=T,base.url="http://freyja
 #' Returns a list containing two data frames.
 #' The second data frame is a formatted and transposed version 
 #' of the original data with an additional labels column added.
+#' For data format instructions see https://github.com/Anderson-Lab/ComplementaryDomainPrioritization/wiki.
 #' 
 #' @param file A string pointing to the location of the data file
 #' @param start.data.inx An integer >= 2 that indicates where the actual data starts.
@@ -74,8 +75,9 @@ load.gene.data <- function(file,start.data.inx) {
 #' Returns a list containing two data frames.
 #' The second data frame is a formatted and transposed version 
 #' of the original data with an additional labels column added.
+#' For data format instructions see https://github.com/Anderson-Lab/ComplementaryDomainPrioritization/wiki.
 #' 
-#' @param file A string pointing to the location of the data file
+#' @param file A string pointing to the location of the data file. 
 #' @param start.data.inx An integer >= 2 that indicates where the actual data starts.
 #' @return a list containing two data frames.
 #' 
@@ -107,11 +109,12 @@ load.protein.data <- function(file,start.data.inx) {
 
 #' Loading the pathway data from WebGestalt output.
 #'
-#' Returns ...
+#' Returns an array of pathways.
+#' For data format instructions see https://github.com/Anderson-Lab/ComplementaryDomainPrioritization/wiki.
 #' 
 #' @param file A string pointing to the location of the data file
 #' @param db Wiki, Kegg, or TF
-#' @return a list containing the enrichment results
+#' @return a list containing the extracted pathways from WebGestalt output.
 #' 
 #' @examples
 #' download.example.data()

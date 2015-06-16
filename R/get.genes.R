@@ -4,9 +4,9 @@ library(XML)
 library(KEGGREST)
 library(RCurl)
 
-#' Downloading WikiPathways and returning gene ids
+#' Downloading WikiPathways to access gene ids
 #'
-#' Returns ...
+#' Returns the gene ids associated with select WikiPathways
 #' For more information on WikiPathways see http://webservice.wikipathways.org/ and
 #' http://www.wikipathways.org/index.php/Help:WikiPathways_Webservice/API
 #' 
@@ -83,12 +83,9 @@ get.genes.wiki <- function(webg.pathways,url="http://webservice.wikipathways.org
   
 }
 
-#source("http://bioconductor.org/biocLite.R")
-#biocLite("org.Hs.eg.db")
-
-#' Downloading Kegg Pathways and returning gene ids
+#' Downloading Kegg Pathways to find the gene ids
 #'
-#' Returns ...
+#' Returns the gene ids
 #' 
 #' @param webg.pathways dataframe where the second column contains the pathway ids
 #' @param sleep Number of seconds to sleep between Kegg requests

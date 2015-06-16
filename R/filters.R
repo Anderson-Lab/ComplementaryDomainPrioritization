@@ -1,12 +1,12 @@
 #' Fold change filter
 #'
-#' Returns ...
+#' Applies a simple fold change filter on the data. 
 #' 
 #' @param data - transposed gene data
 #' @param theta - if > 1, theta is the target number of ranked variables;
 #' otherwise, it is the top theta fraction of ranked variables.
 #' @param class1.inxs - the row indices of class 1
-#' @param class2.inxs - the column indices of class 2
+#' @param class2.inxs - the row indices of class 2
 #' 
 #' @return filtered dataset
 #' 
@@ -37,7 +37,7 @@ fold.change.filter <- function(data,theta,class1.inxs,class2.inxs) {
 
 #' Overall mean filter
 #'
-#' Returns ...
+#' Applies the overall mean filter on the columns of the dataset.
 #' 
 #' @param data - transposed gene data
 #' @param theta - if > 1, theta is the target number of ranked variables;
@@ -76,7 +76,7 @@ colVars <- function(x, na.rm=FALSE, dims=1, unbiased=TRUE, SumSquares=FALSE,
 
 #' Overall variance filter
 #'
-#' Returns ...
+#' Performs an overall variance filter using each column.
 #' 
 #' @param data - transposed gene data
 #' @param theta - if > 1, theta is the target number of ranked variables;
@@ -105,7 +105,7 @@ overall.var.filter <- function(data,theta) {
 
 #' Random filter
 #'
-#' Returns ...
+#' Performs a random filter of the variables. For comparison purposes.
 #' 
 #' @param data - transposed gene data
 #' @param theta - if > 1, theta is the target number of ranked variables;
@@ -133,7 +133,7 @@ random.filter <- function(data,theta) {
 
 #' Returns a filtered dataset
 #'
-#' Returns ...
+#' Helper function that takes an array of gene.ids and uses those to filter.
 #' 
 #' @param data - transposed gene data
 #' @param gene.ids - result of get.genes.*(...)
@@ -155,7 +155,8 @@ list.filter <- function(data,gene.ids) {
 
 #' Returns the gene.ixs for filtering
 #'
-#' Returns ...
+#' A helper function that filters using a list of gene IDs and returns an
+#' array of indices of the genes that passed the filter.
 #' 
 #' @param data - transposed gene data
 #' @param gene.ids - result of get.genes.*(...)
