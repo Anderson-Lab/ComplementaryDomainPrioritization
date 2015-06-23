@@ -15,7 +15,8 @@ list.filter.inxs(data, gene.ids)
 an array of inxs
 }
 \description{
-Returns ...
+A helper function that filters using a list of gene IDs and returns an
+array of indices of the genes that passed the filter.
 }
 \examples{
 download.example.data()

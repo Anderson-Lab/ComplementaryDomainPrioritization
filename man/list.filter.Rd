@@ -15,7 +15,7 @@ list.filter(data, gene.ids)
 an array of inxs
 }
 \description{
-Returns ...
+Helper function that takes an array of gene.ids and uses those to filter.
 }
 \examples{
 download.example.data()

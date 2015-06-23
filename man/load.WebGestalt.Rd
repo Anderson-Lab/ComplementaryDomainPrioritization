@@ -12,10 +12,11 @@ load.WebGestalt(file, db)
 \item{db}{Wiki, Kegg, or TF}
 }
 \value{
-a list containing the enrichment results
+a list containing the extracted pathways from WebGestalt output.
 }
 \description{
-Returns ...
+Returns an array of pathways.
+For data format instructions see https://github.com/Anderson-Lab/ComplementaryDomainPrioritization/wiki.
 }
 \examples{
 download.example.data()

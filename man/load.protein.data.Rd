@@ -7,7 +7,7 @@
 load.protein.data(file, start.data.inx)
 }
 \arguments{
-\item{file}{A string pointing to the location of the data file}
+\item{file}{A string pointing to the location of the data file.}
 
 \item{start.data.inx}{An integer >= 2 that indicates where the actual data starts.}
 }
@@ -18,6 +18,7 @@ a list containing two data frames.
 Returns a list containing two data frames.
 The second data frame is a formatted and transposed version
 of the original data with an additional labels column added.
+For data format instructions see https://github.com/Anderson-Lab/ComplementaryDomainPrioritization/wiki.
 }
 \examples{
 download.example.data()

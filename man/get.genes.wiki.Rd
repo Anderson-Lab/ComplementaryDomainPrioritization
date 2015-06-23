@@ -2,7 +2,7 @@
 % Please edit documentation in R/get.genes.R
 \name{get.genes.wiki}
 \alias{get.genes.wiki}
-\title{Downloading WikiPathways and returning gene ids}
+\title{Downloading WikiPathways to access gene ids}
 \usage{
 get.genes.wiki(webg.pathways, url = "http://webservice.wikipathways.org",
   species = "Homo sapiens")
@@ -18,7 +18,7 @@ get.genes.wiki(webg.pathways, url = "http://webservice.wikipathways.org",
 a dataframe
 }
 \description{
-Returns ...
+Returns the gene ids associated with select WikiPathways
 For more information on WikiPathways see http://webservice.wikipathways.org/ and
 http://www.wikipathways.org/index.php/Help:WikiPathways_Webservice/API
 }

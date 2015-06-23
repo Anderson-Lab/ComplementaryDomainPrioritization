@@ -2,7 +2,7 @@
 % Please edit documentation in R/loading.R
 \name{download.example.data}
 \alias{download.example.data}
-\title{Downloads example data files for examples}
+\title{Downloads example data files for package demonstration.}
 \usage{
 download.example.data(dest = ".", allow.cache = T,
   base.url = "http://freyja.cs.cofc.edu/downloads/GeneListPrioritization")
@@ -15,7 +15,7 @@ download.example.data(dest = ".", allow.cache = T,
 \item{base.url}{Source URL location}
 }
 \description{
-Downloads example data files for examples
+Downloads example data files for package demonstration.
 }
 \examples{
 download.example.data()

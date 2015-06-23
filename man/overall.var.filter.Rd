@@ -16,7 +16,7 @@ otherwise, it is the top theta fraction of ranked variables.}
 an array of inxs
 }
 \description{
-Returns ...
+Performs an overall variance filter using each column.
 }
 \examples{
 download.example.data()

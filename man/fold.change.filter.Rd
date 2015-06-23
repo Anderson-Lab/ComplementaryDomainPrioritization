@@ -14,13 +14,13 @@ otherwise, it is the top theta fraction of ranked variables.}
 
 \item{class1.inxs}{- the row indices of class 1}
 
-\item{class2.inxs}{- the column indices of class 2}
+\item{class2.inxs}{- the row indices of class 2}
 }
 \value{
 filtered dataset
 }
 \description{
-Returns ...
+Applies a simple fold change filter on the data.
 }
 \examples{
 download.example.data()

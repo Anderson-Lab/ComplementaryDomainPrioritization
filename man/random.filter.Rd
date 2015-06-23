@@ -16,7 +16,7 @@ otherwise, it is the top theta fraction of ranked variables.}
 an array of inxs
 }
 \description{
-Returns ...
+Performs a random filter of the variables. For comparison purposes.
 }
 \examples{
 download.example.data()

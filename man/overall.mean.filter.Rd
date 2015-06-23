@@ -16,7 +16,7 @@ otherwise, it is the top theta fraction of ranked variables.}
 an array of inxs
 }
 \description{
-Returns ...
+Applies the overall mean filter on the columns of the dataset.
 }
 \examples{
 download.example.data()

@@ -2,7 +2,7 @@
 % Please edit documentation in R/get.genes.R
 \name{get.genes.kegg}
 \alias{get.genes.kegg}
-\title{Downloading Kegg Pathways and returning gene ids}
+\title{Downloading Kegg Pathways to find the gene ids}
 \usage{
 get.genes.kegg(webg.pathways, sleep = 10)
 }
@@ -15,7 +15,7 @@ get.genes.kegg(webg.pathways, sleep = 10)
 an array of gene ids
 }
 \description{
-Returns ...
+Returns the gene ids
 }
 \examples{
 download.example.data()
