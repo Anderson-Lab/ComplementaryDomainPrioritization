@@ -9,7 +9,7 @@
 #' 
 #' @export
 #' 
-download.example.data <- function(dest=".",allow.cache=T,base.url="http://freyja.cs.cofc.edu/downloads/GeneListPrioritization") {
+download.example.data <- function(dest=".",allow.cache=T,base.url="http://freyja.cs.cofc.edu/downloads/ComplementaryDomainPrioritization/") {
   files = c("Catteno_array.csv","Marra_0_kegg_protein_enrichment.tsv","Marra_0_tf_protein_enrichment.tsv","Marra_0_wiki_protein_enrichment.tsv","TCGA_protein.csv","TCGA_rna.csv","Uzozie_protein.csv")
   for (i in 1:length(files)) {
     dest.file = paste(dest,"/",files[i],sep="")

@@ -5,7 +5,7 @@
 \title{Downloads example data files for package demonstration.}
 \usage{
 download.example.data(dest = ".", allow.cache = T,
-  base.url = "http://freyja.cs.cofc.edu/downloads/GeneListPrioritization")
+  base.url = "http://freyja.cs.cofc.edu/downloads/ComplementaryDomainPrioritization/")
 }
 \arguments{
 \item{dest}{The destination path}
