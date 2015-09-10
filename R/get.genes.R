@@ -226,29 +226,31 @@ get.genes.kegg <- function(webg.pathways,sleep=10) {
 
 #' Downloading gene ids from all Kegg Pathways
 #'
-#' Returns the gene ids
+#' Writes the gene ids to a file
 #' 
 #' @param sleep Number of seconds to sleep between Kegg requests
 #' @param species Species identifier for Kegg. Default is hsa.
-#' @return an array of gene ids
-#' 
+#' @param start Index of pathway to start processing. Only necessary because of frequent Kegg timeouts.
+#' @param file File to read gene ids from and 
+#'  
 #' @examples
-#' gene.ids = get.all.genes.kegg()
+#' gene.ids = get.all.genes.kegg(start=1)
 #' 
 #' @export
 #' 
-get.all.genes.kegg <- function(sleep=10,species="hsa") {
-  pathways.kegg.list = keggList("hsa")
+get.all.genes.kegg <- function(sleep=10,species="hsa",start=1,file="kegg.genes.csv") {
+  pathways.kegg.list = keggList(paste("pathway/",species,sep=""))
   pathways = matrix(1:(2*length(names(pathways.kegg.list))),ncol=2)
   pathways[,2] = names(pathways.kegg.list)
   pathways[,1] = pathways.kegg.list
   
-  genes = c()
-  #genes = read.csv('genes.csv')
-  #genes = as.character(genes$x)
-  z = 1
-  #start = read.csv('currenti.csv')
-  #start = start$x[1]+1
+  if (file.exists(file)) {
+    df = read.csv(file)
+    genes = as.vector(df$x)
+  } else {
+    genes = c()
+  }
+  z = start
   pathways.with.no.genes = c()
   k = 1
   while (z <= nrow(pathways)) {
@@ -277,14 +279,13 @@ get.all.genes.kegg <- function(sleep=10,species="hsa") {
       }
     }
     
-    #    write.csv(genes,'temp.genes.csv')
-    #    write.csv(z,'temp.z.csv')
-    Sys.sleep(sleep)
+    write.csv(as.numeric(unique(genes)),file=file)
+    #Sys.sleep(sleep)
     z = z + 10;
-    #print(z)
     for (i in 1:length(submissions)) {
       print(submissions[i])
     }
+    print(paste("Starting ",z))
   }
   
   genes = unique(genes)
