@@ -14,8 +14,8 @@
 #' download.example.data()
 #' webg.pathways = load.WebGestalt("Marra_0_wiki_protein_enrichment.tsv",'Wiki')
 #' gene.ids = get.genes.wiki(webg.pathways)
-#' Catteno.rna = load.gene.data("Catteno_array.csv",5)
-#' prioritized.data = list.filter(Catteno.rna$transposed.data,gene.ids)
+#' Cattaneo.rna = load.gene.data("Cattaneo_array.csv",5)
+#' prioritized.data = list.filter(Cattaneo.rna$transposed.data,gene.ids)
 #' prioritized.filtered.data = fold.change.filter(prioritized.data,100,
 #'                                                which(prioritized.data$labels=='adenoma'),
 #'                                                which(prioritized.data$labels=='normal'))
@@ -48,8 +48,8 @@ fold.change.filter <- function(data,theta,class1.inxs,class2.inxs) {
 #' download.example.data()
 #' webg.pathways = load.WebGestalt("Marra_0_wiki_protein_enrichment.tsv",'Wiki')
 #' gene.ids = get.genes.wiki(webg.pathways)
-#' Catteno.rna = load.gene.data("Catteno_array.csv",5)
-#' prioritized.data = list.filter(Catteno.rna$transposed.data,gene.ids)
+#' Cattaneo.rna = load.gene.data("Cattaneo_array.csv",5)
+#' prioritized.data = list.filter(Cattaneo.rna$transposed.data,gene.ids)
 #' prioritized.filtered.data = overall.mean.filter(prioritized.data,100)
 #' 
 #' @export
@@ -87,8 +87,8 @@ colVars <- function(x, na.rm=FALSE, dims=1, unbiased=TRUE, SumSquares=FALSE,
 #' download.example.data()
 #' webg.pathways = load.WebGestalt("Marra_0_wiki_protein_enrichment.tsv",'Wiki')
 #' gene.ids = get.genes.wiki(webg.pathways)
-#' Catteno.rna = load.gene.data("Catteno_array.csv",5)
-#' prioritized.data = list.filter(Catteno.rna$transposed.data,gene.ids)
+#' Cattaneo.rna = load.gene.data("Cattaneo_array.csv",5)
+#' prioritized.data = list.filter(Cattaneo.rna$transposed.data,gene.ids)
 #' prioritized.filtered.data = overall.var.filter(prioritized.data,100)
 #' 
 #' @export
@@ -116,8 +116,8 @@ overall.var.filter <- function(data,theta) {
 #' download.example.data()
 #' webg.pathways = load.WebGestalt("Marra_0_wiki_protein_enrichment.tsv",'Wiki')
 #' gene.ids = get.genes.wiki(webg.pathways)
-#' Catteno.rna = load.gene.data("Catteno_array.csv",5)
-#' prioritized.data = list.filter(Catteno.rna$transposed.data,gene.ids)
+#' Cattaneo.rna = load.gene.data("Cattaneo_array.csv",5)
+#' prioritized.data = list.filter(Cattaneo.rna$transposed.data,gene.ids)
 #' prioritized.filtered.data = random.filter(prioritized.data,100)
 #' 
 #' @export
@@ -143,8 +143,8 @@ random.filter <- function(data,theta) {
 #' download.example.data()
 #' webg.pathways = load.WebGestalt("Marra_0_wiki_protein_enrichment.tsv",'Wiki')
 #' gene.ids = get.genes.wiki(webg.pathways)
-#' Catteno.rna = load.gene.data("Catteno_array.csv",5)
-#' filtered.data = list.filter(Catteno.rna$transposed.data,gene.ids)
+#' Cattaneo.rna = load.gene.data("Cattaneo_array.csv",5)
+#' filtered.data = list.filter(Cattaneo.rna$transposed.data,gene.ids)
 #' 
 #' @export
 #' 
@@ -166,8 +166,8 @@ list.filter <- function(data,gene.ids) {
 #' download.example.data()
 #' webg.pathways = load.WebGestalt("Marra_0_wiki_protein_enrichment.tsv",'Wiki')
 #' gene.ids = get.genes.wiki(webg.pathways)
-#' Catteno.rna = load.gene.data("Catteno_array.csv",5)
-#' gene.ixs = list.filter.inxs(Catteno.rna$transposed.data,gene.ids)
+#' Cattaneo.rna = load.gene.data("Cattaneo_array.csv",5)
+#' gene.ixs = list.filter.inxs(Cattaneo.rna$transposed.data,gene.ids)
 #'  
 #' @export
 #' 

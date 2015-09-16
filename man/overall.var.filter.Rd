@@ -22,8 +22,8 @@ Performs an overall variance filter using each column.
 download.example.data()
 webg.pathways = load.WebGestalt("Marra_0_wiki_protein_enrichment.tsv",'Wiki')
 gene.ids = get.genes.wiki(webg.pathways)
-Catteno.rna = load.gene.data("Catteno_array.csv",5)
-prioritized.data = list.filter(Catteno.rna$transposed.data,gene.ids)
+Cattaneo.rna = load.gene.data("Cattaneo_array.csv",5)
+prioritized.data = list.filter(Cattaneo.rna$transposed.data,gene.ids)
 prioritized.filtered.data = overall.var.filter(prioritized.data,100)
 }
 

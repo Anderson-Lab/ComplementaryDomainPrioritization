@@ -22,7 +22,7 @@ array of indices of the genes that passed the filter.
 download.example.data()
 webg.pathways = load.WebGestalt("Marra_0_wiki_protein_enrichment.tsv",'Wiki')
 gene.ids = get.genes.wiki(webg.pathways)
-Catteno.rna = load.gene.data("Catteno_array.csv",5)
-gene.ixs = list.filter.inxs(Catteno.rna$transposed.data,gene.ids)
+Cattaneo.rna = load.gene.data("Cattaneo_array.csv",5)
+gene.ixs = list.filter.inxs(Cattaneo.rna$transposed.data,gene.ids)
 }
 

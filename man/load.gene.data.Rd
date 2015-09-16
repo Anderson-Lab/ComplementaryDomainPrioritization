@@ -23,6 +23,6 @@ For data format instructions see https://github.com/Anderson-Lab/ComplementaryDo
 \examples{
 download.example.data()
 TCGA.rna = load.gene.data("TCGA_rna.csv",3)
-Catteno.rna = load.gene.data("Catteno_array.csv",5)
+Cattaneo.rna = load.gene.data("Cattaneo_array.csv",5)
 }
 

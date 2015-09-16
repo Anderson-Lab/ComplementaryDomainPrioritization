@@ -21,7 +21,7 @@ Helper function that takes an array of gene.ids and uses those to filter.
 download.example.data()
 webg.pathways = load.WebGestalt("Marra_0_wiki_protein_enrichment.tsv",'Wiki')
 gene.ids = get.genes.wiki(webg.pathways)
-Catteno.rna = load.gene.data("Catteno_array.csv",5)
-filtered.data = list.filter(Catteno.rna$transposed.data,gene.ids)
+Cattaneo.rna = load.gene.data("Cattaneo_array.csv",5)
+filtered.data = list.filter(Cattaneo.rna$transposed.data,gene.ids)
 }
 

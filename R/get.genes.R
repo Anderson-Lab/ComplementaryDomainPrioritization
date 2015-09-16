@@ -303,10 +303,10 @@ get.all.genes.kegg <- function(sleep=10,species="hsa",start=1,file="kegg.genes.c
 #' 
 #' @examples
 #' download.example.data()
-#' Catteno.rna = load.gene.data("Catteno_array.csv",5)
+#' Cattaneo.rna = load.gene.data("Cattaneo_array.csv",5)
 #' webg.pathways = load.WebGestalt("Marra_0_kegg_protein_enrichment.tsv",'Kegg')
 #' gene.ids = get.genes.kegg(webg.pathways)
-#' genes.in.data = get.genes.in.data(gene.ids,Catteno.rna$data)
+#' genes.in.data = get.genes.in.data(gene.ids,Cattaneo.rna$data)
 #' 
 #' @export
 #' 

@@ -10,7 +10,7 @@
 #' @export
 #' 
 download.example.data <- function(dest=".",allow.cache=T,base.url="http://freyja.cs.cofc.edu/downloads/ComplementaryDomainPrioritization/") {
-  files = c("Catteno_array.csv","Marra_0_kegg_protein_enrichment.tsv",
+  files = c("Cattaneo_array.csv","Marra_0_kegg_protein_enrichment.tsv",
             "Marra_0_tf_protein_enrichment.tsv","Marra_0_wiki_protein_enrichment.tsv",
             "TCGA_protein.csv","TCGA_rna.csv","Uzozie_protein.csv","Marra_5percentFDR_tf_protein_enrichment.tsv",
             "Marra_5percentFDR_wiki_protein_enrichment.tsv","Marra_5percentFDR_kegg_protein_enrichment.tsv"
@@ -42,7 +42,7 @@ download.example.data <- function(dest=".",allow.cache=T,base.url="http://freyja
 #' @examples
 #' download.example.data()
 #' TCGA.rna = load.gene.data("TCGA_rna.csv",3)
-#' Catteno.rna = load.gene.data("Catteno_array.csv",5)
+#' Cattaneo.rna = load.gene.data("Cattaneo_array.csv",5)
 #' 
 #' @export
 #' 

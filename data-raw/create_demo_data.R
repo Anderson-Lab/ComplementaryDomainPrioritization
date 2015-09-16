@@ -17,9 +17,9 @@
 #yes.label = 'adenoma'
 #save(list=c('Uzozie.protein','yes.label'),file='GeneListPrioritization/data/Uzozie.protein.RData')
 
-#file = "GeneListPrioritization/inst/extdata/Catteno_array.csv"
-#Catteno.array = load.gene.data(file,5)
-#use_data(Catteno.array, pkg="GeneListPrioritization",overwrite=T)
+#file = "GeneListPrioritization/inst/extdata/Cattaneo_array.csv"
+#Cattaneo.array = load.gene.data(file,5)
+#use_data(Cattaneo.array, pkg="GeneListPrioritization",overwrite=T)
 #yes.label = 'adenoma'
-#save(list=c('Catteno.array','yes.label'),file='GeneListPrioritization/data/Catteno.array.RData')
+#save(list=c('Cattaneo.array','yes.label'),file='GeneListPrioritization/data/Cattaneo.array.RData')
 
