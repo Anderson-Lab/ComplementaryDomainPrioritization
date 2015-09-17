@@ -2,6 +2,8 @@
 
 export(download.example.data)
 export(fold.change.filter)
+export(get.all.genes.kegg)
+export(get.all.genes.wiki)
 export(get.genes.in.data)
 export(get.genes.kegg)
 export(get.genes.tf)

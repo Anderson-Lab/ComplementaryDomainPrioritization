@@ -5,7 +5,7 @@
 \title{Finds the genes ids from the Transcription Factor Targets database}
 \usage{
 get.genes.tf(webg.pathways, db = system.file("extdata",
-  "c3.tft.v4.0.entrez.gmt", package = "GeneListPrioritization"))
+  "c3.tft.v4.0.entrez.gmt", package = "ComplementaryDomainPrioritization"))
 }
 \arguments{
 \item{webg.pathways}{dataframe where the second column contains the pathway ids}

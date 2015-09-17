@@ -332,7 +332,7 @@ get.genes.in.data <- function(gene.ids,gene.data) {
 #' 
 #' @export
 #' 
-get.genes.tf <- function(webg.pathways,db=system.file("extdata", "c3.tft.v4.0.entrez.gmt", package = "GeneListPrioritization")) {
+get.genes.tf <- function(webg.pathways,db=system.file("extdata", "c3.tft.v4.0.entrez.gmt", package = "ComplementaryDomainPrioritization")) {
   lines = readLines(db) 
   gene.ids = c()
   for (i in 1:nrow(webg.pathways)) {
