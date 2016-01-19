@@ -2,3 +2,4 @@ Gust et al. BMC Genomics (2015) 16:587
 Shimwell et al. British Journal of Cancer (2013) 108, 1854–1861 | doi: 10.1038/bjc.2013.157
 CPTAC BRCA and ovarian cancer
 Li et al. Nature Communications (2014) http://dx.doi.org/10.1038/ncomms6469
+Hakimi et al. Cancer Cell (2016) An Integrated Metabolic Atlas of Clear Cell Renal Cell Carcinoma, http://www.sciencedirect.com/science/article/pii/S1535610815004687
