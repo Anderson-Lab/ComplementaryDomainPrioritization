@@ -134,7 +134,7 @@ load.WebGestalt <- function(file,db) {
   } else if (db == 'Wiki') {
     pathway_lines = lines[grep('Wikipathways pathway\t',lines)]
   } else if (db == 'TF') {
-    pathway_lines = lines[grep('Transcrription Target\t',lines)]
+    pathway_lines = lines[grep('Transcription Target\t',lines)]
   }
   pathways = as.data.frame(matrix(sapply(pathway_lines,function(line) { 
     fields = strsplit(line,'\t')[[1]]
